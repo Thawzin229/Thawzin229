@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thawzin</h1>
+<h1 align="center">Yo ! 👋, I'm Thawzin</h1>
 <h3 align="center">A Full-stack developer in Mynamar</h3>
 
 - 🔭 I’m currently working on **Sar Pay Lann Online Book Store Project**
