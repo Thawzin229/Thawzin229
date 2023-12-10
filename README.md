@@ -1,5 +1,5 @@
 <h1 align="center">Yo ! 👋, I'm Thawzin</h1>
-<h3 align="center">A Full-stack developer in Mynamar</h3>
+<h3 align="center">A Full-stack developer in Myanmar</h3>
 
 - 🔭 I’m currently working on **Sar Pay Lann Online Book Store Project**
 
