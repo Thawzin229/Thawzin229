@@ -7,7 +7,7 @@ a Full-Stack Developer
 * 🌍  I'm based in Myanmar
 * ✉️  You can contact me at [thawzin](mailto:thawzin)
 * 🧠  I'm learning Inertia.js ,vue.js ,node.js
-* 🤝  I'm open to collaborating on Social Modia , POS , Blogs
+* 🤝  I'm open to collaborating on large scale projects like Social Media , POS , Blogs 
 * ⚡  I'm Batman
 
 ### Skills
