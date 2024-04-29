@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://google.com/thawzin842019@gmail.com" target="_blank">
+  <a href="https://myaccount.google.com/profile/profiles-summary" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/thaw-zin-4493572aa/" target="_blank">
