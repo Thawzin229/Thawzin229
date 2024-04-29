@@ -1,4 +1,14 @@
-<h3 align="left">Hi !  My name is Thawzin ,  a  Full-Stack Developer<br><br>* 🌍  I'm based in Myanmar<br>* ✉️  You can contact me at [thawzin](mailto:thawzin)<br>* 🧠  I'm learning Express.js , cloud services, node.js<br>* 🤝  I'm open to collaborating on large scale projects like Social Media , POS , CMS <br>* ⚡  I'm Batman</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thawzin,
+================================================================================================================================
+
+a Full-Stack Developer
+----------------------
+
+* 🌍  I'm based in Myanmar
+* ✉️  You can contact me at [thawzin](mailto:thawzin)
+* 🧠  I'm learning Cloud Services , Micro Services , Security terms
+* 🤝  I'm open to collaborating on large scale projects like Social Media , POS , CMS 
+* ⚡  I'm Batman
 
 ###
 
